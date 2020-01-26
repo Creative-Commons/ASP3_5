@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<application>
+  <homepage title="Country" value="TreeView.aspx">
+    <page title ="INDIA" value="TreeView.aspx">
+      <subpage title ="up" value="TreeView.aspx"/>
+      <subpage title ="delhi" value="TreeView.aspx"/>
+      <subpage title ="mumbai" value="TreeView.aspx"/>
+      <subpage title ="kolkata" value="TreeView.aspx"/>
+    </page>
+    <page title ="US" value="TreeView.aspx"/>
+    <page title ="CHNIA" value="TreeView.aspx"/>
+    <page title ="JAPAN" value="TreeView.aspx"/>
+  </homepage>
+</application>

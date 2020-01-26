@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <Imageurl>flower.jpg</Imageurl>
+    <NavigationUrl>
+      https://images.homedepot-static.com/productImages/612ae505-9daf-45c3-ac16-67f97dcb251d/svn/globalrose-flower-bouquets-prime-100-red-roses-64_1000.jpg
+    </NavigationUrl>
+    <AlternateText>Order Flowers Online</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Flower</Keyword>
+  </Ad>
+  <Ad>
+  <Imageurl>flower1.jpg</Imageurl>
+  <NavigationUrl>
+    https://images.homedepot-static.com/productImages/612ae505-9daf-45c3-ac16-67f97dcb251d/svn/globalrose-flower-bouquets-prime-100-red-roses-64_1000.jpg
+  </NavigationUrl>
+  <AlternateText>Lost</AlternateText>
+  <Impressions>20</Impressions>
+  <Keyword>dotNEt</Keyword>
+  </Ad>
+</Advertisements>
